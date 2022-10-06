@@ -1,0 +1,573 @@
+ERT INTO xxt 
+
+VALUES(1,'Center');
+
+INSERT INTO xxt 
+
+VALUES(3,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(6,'Open');
+
+INSERT INTO xxt 
+
+VALUES(10,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(15,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(21,'Center');
+
+INSERT INTO xxt 
+
+VALUES(28,'Join');
+
+INSERT INTO xxt 
+
+VALUES(36,'Open');
+
+INSERT INTO xxt 
+
+VALUES(45,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(55,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(66,'Open');
+
+INSERT INTO xxt 
+
+VALUES(78,'Join');
+
+INSERT INTO xxt 
+
+VALUES(91,'Center');
+
+INSERT INTO xxt 
+
+VALUES(105,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(120,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(136,'Open');
+
+INSERT INTO xxt 
+
+VALUES(153,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(171,'Center');
+
+INSERT INTO xxt 
+
+VALUES(190,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(210,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(231,'Center');
+
+INSERT INTO xxt 
+
+VALUES(253,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(276,'Open');
+
+INSERT INTO xxt 
+
+VALUES(300,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(325,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(351,'Center');
+
+INSERT INTO xxt 
+
+VALUES(378,'Join');
+
+INSERT INTO xxt 
+
+VALUES(406,'Open');
+
+INSERT INTO xxt 
+
+VALUES(435,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(465,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(496,'Open');
+
+INSERT INTO xxt 
+
+VALUES(528,'Join');
+
+INSERT INTO xxt 
+
+VALUES(561,'Center');
+
+INSERT INTO xxt 
+
+VALUES(595,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(630,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(666,'Open');
+
+INSERT INTO xxt 
+
+VALUES(703,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(741,'Center');
+
+INSERT INTO xxt 
+
+VALUES(780,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(820,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(861,'Center');
+
+INSERT INTO xxt 
+
+VALUES(903,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(946,'Open');
+
+INSERT INTO xxt 
+
+VALUES(990,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(1035,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(1081,'Center');
+
+INSERT INTO xxt 
+
+VALUES(1128,'Join');
+
+INSERT INTO xxt 
+
+VALUES(1176,'Open');
+
+INSERT INTO xxt 
+
+VALUES(1225,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(1275,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(1326,'Open');
+
+INSERT INTO xxt 
+
+VALUES(1378,'Join');
+
+INSERT INTO xxt 
+
+VALUES(1431,'Center');
+
+INSERT INTO xxt 
+
+VALUES(1485,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(1540,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(1596,'Open');
+
+INSERT INTO xxt 
+
+VALUES(1653,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(1711,'Center');
+
+INSERT INTO xxt 
+
+VALUES(1770,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(1830,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(1891,'Center');
+
+INSERT INTO xxt 
+
+VALUES(1953,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(2016,'Open');
+
+INSERT INTO xxt 
+
+VALUES(2080,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(2145,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(2211,'Center');
+
+INSERT INTO xxt 
+
+VALUES(2278,'Join');
+
+INSERT INTO xxt 
+
+VALUES(2346,'Open');
+
+INSERT INTO xxt 
+
+VALUES(2415,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(2485,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(2556,'Open');
+
+INSERT INTO xxt 
+
+VALUES(2628,'Join');
+
+INSERT INTO xxt 
+
+VALUES(2701,'Center');
+
+INSERT INTO xxt 
+
+VALUES(2775,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(2850,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(2926,'Open');
+
+INSERT INTO xxt 
+
+VALUES(3003,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(3081,'Center');
+
+INSERT INTO xxt 
+
+VALUES(3160,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(3240,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(3321,'Center');
+
+INSERT INTO xxt 
+
+VALUES(3403,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(3486,'Open');
+
+INSERT INTO xxt 
+
+VALUES(3570,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(3655,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(3741,'Center');
+
+INSERT INTO xxt 
+
+VALUES(3828,'Join');
+
+INSERT INTO xxt 
+
+VALUES(3916,'Open');
+
+INSERT INTO xxt 
+
+VALUES(4005,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(4095,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(4186,'Open');
+
+INSERT INTO xxt 
+
+VALUES(4278,'Join');
+
+INSERT INTO xxt 
+
+VALUES(4371,'Center');
+
+INSERT INTO xxt 
+
+VALUES(4465,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(4560,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(4656,'Open');
+
+INSERT INTO xxt 
+
+VALUES(4753,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(4851,'Center');
+
+INSERT INTO xxt 
+
+VALUES(4950,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(5050,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(5151,'Center');
+
+INSERT INTO xxt 
+
+VALUES(5253,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(5356,'Open');
+
+INSERT INTO xxt 
+
+VALUES(5460,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(5565,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(5671,'Center');
+
+INSERT INTO xxt 
+
+VALUES(5778,'Join');
+
+INSERT INTO xxt 
+
+VALUES(5886,'Open');
+
+INSERT INTO xxt 
+
+VALUES(5995,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(6105,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(6216,'Open');
+
+INSERT INTO xxt 
+
+VALUES(6328,'Join');
+
+INSERT INTO xxt 
+
+VALUES(6441,'Center');
+
+INSERT INTO xxt 
+
+VALUES(6555,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(6670,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(6786,'Open');
+
+INSERT INTO xxt 
+
+VALUES(6903,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(7021,'Center');
+
+INSERT INTO xxt 
+
+VALUES(7140,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(7260,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(7381,'Center');
+
+INSERT INTO xxt 
+
+VALUES(7503,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(7626,'Open');
+
+INSERT INTO xxt 
+
+VALUES(7750,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(7875,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(8001,'Center');
+
+INSERT INTO xxt 
+
+VALUES(8128,'Join');
+
+INSERT INTO xxt 
+
+VALUES(8256,'Open');
+
+INSERT INTO xxt 
+
+VALUES(8385,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(8515,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(8646,'Open');
+
+INSERT INTO xxt 
+
+VALUES(8778,'Join');
+
+INSERT INTO xxt 
+
+VALUES(8911,'Center');
+
+INSERT INTO xxt 
+
+VALUES(9045,'Specs');
+
+INSERT INTO xxt 
+
+VALUES(9180,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(9316,'Open');
+
+INSERT INTO xxt 
+
+VALUES(9453,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(9591,'Center');
+
+INSERT INTO xxt 
+
+VALUES(9730,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(9870,'Inner');
+
+INSERT INTO xxt 
+
+VALUES(10011,'Center');
+
+INSERT INTO xxt 
+
+VALUES(10153,'Loop');
+
+INSERT INTO xxt 
+
+VALUES(10296,'Open');
+
+commit;
